@@ -3,7 +3,7 @@
 Demo
   ---
 
-![](https://github.com/megaganjotsingh/MultipleCoachMarks/blob/main/multipleCoachMarks.gif)
+![Demo gif](https://github.com/megaganjotsingh/MultipleCoachMarks/blob/main/multipleCoachMarks.gif)
 
 Easy to Use
   ---
