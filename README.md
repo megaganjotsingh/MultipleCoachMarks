@@ -3,7 +3,7 @@
 Demo
   ---
 
-![Demo gif](https://imgur.com/a/zLPdIlM)
+<img src="/multipleCoachMarks.gif?raw=true" width="200px">
 
 Easy to Use
   ---
